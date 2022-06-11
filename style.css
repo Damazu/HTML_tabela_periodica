@@ -1,0 +1,28 @@
+body{
+    background-color: #F8F8FF;
+}
+
+table{ text-align: center;}
+.titulo { font-size: 6vh; font-family: Arial, Helvetica, sans-serif;}
+td{ border-radius: 3px;
+width: 99px;
+height: 90px;
+}
+
+ul { list-style: none; margin: 0; padding: 0;}
+#hidrogenio { background: darkcyan}
+.gases-nobres { background: red }
+.nao-metal {background:  teal;}
+.alcalinos {background: green;}
+.alcalinos-terrosos {background: greenyellow;}
+.halogenio {background: rgb(34, 206, 189);}
+.semi-metal {background: pink;}
+.outros-metais {background: plum;}
+.metais-transição {background: orange;}
+.Lantanideos {background: yellow;}
+.Actinideos {background: brown;}
+.numero-atomico { text-align: left;margin: 3px}
+.elemento {font-size: 3vh;}
+a {color: black;
+text-decoration: none;}
+a:hover {color: white;}
